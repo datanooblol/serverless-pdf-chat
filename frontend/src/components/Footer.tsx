@@ -17,9 +17,6 @@ const Footer: React.FC = () => {
               width={20}
               className="mr-1.5 py-2 mx-2"
             />
-            <a href="https://github.com/datanooblol/serverless-pdf-chat">
-              Source code on GitHub
-            </a>
           </div>
         </div>
       </footer>
