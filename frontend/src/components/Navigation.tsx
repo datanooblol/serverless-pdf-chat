@@ -27,7 +27,7 @@ const Navigation: React.FC<NavigationProps> = ({
           <img
             src={EnStructure}
             alt="enstructure Logo"
-            width={20}
+            width={40}
             className="mr-1.5 py-2 mx-2"
           />
           enstructure
